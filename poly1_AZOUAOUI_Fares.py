@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-#Programme de AZOUAOUI Farès 
+#Programme de AZOUAOUI Farès
 
 #Imports eventuels
 
